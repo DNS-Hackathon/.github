@@ -10,13 +10,13 @@ More information will follow.
 
 The Hackathon is hosted by [Netnod](https://www.netnod.se/), [DNS-OARC](https://www.dns-oarc.net/), and [RIPE NCC](https://www.ripe.net/).
 
-## Sponsors
+## Organizing Committee
 
-Many thanks to our sponsors (TBA).
+The organizing committee consists of Johanna Eriksson (Netnod), Denesh Bhabuta (DNS-OARC) and Vesna Manojlovic (RIPE NCC).
 
 ## Programme Committee
 
-The programme Committee consists of Arife, Vesna, Johanna, Denesh, Liman.
+The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan Liman (Netnod) and Samaneh Tajalizadehkhoob (ICANN).
 
 ## Supporting documents 
 
@@ -24,11 +24,36 @@ The programme Committee consists of Arife, Vesna, Johanna, Denesh, Liman.
 * Slides
 * [intro-to-DNS-hackathon-vesna.pdf](https://github.com/user-attachments/files/19072554/intro-to-DNS-hackathon-vesna.pdf)
 * [hackathon-logistics-johanna.pdf](https://github.com/user-attachments/files/19072553/hackathon-logistics-johanna.pdf)
- 
 
 ## Projects
 
-(TBA)
+- Poisonlicious
+
+  Team: Stéphane Bortzmeyer (Afnic), Willem Toorop (NLnet Labs), Moin Rahman (Cybermancer Infosec B.V.), Babak Farrokhi (Quad9)
+
+- [LHB](https://github.com/DNS-Hackathon/LHB)
+
+  Team: Teddy Hogeborn (Nordisk Media Utveckling AB), Björn Påhlsson (Nordisk Media Utveckling AB), Asbjørn Sloth Tønnesen (Fiberby ApS), Ali Mohammad Pur (PCH), Niall O'Reilly (Tolerant Networks Ltd)
+
+- Babies
+
+  Team: Aleksi Suhonen (TREX Regional Exchanges Oy), Anand Buddhdev (RIPE NCC), Marcin (Internet Systems Consortium), Piotrek Zadroga (ISC)
+
+- idIOT
+
+  Team: Ulrich Wisser (ICANN), Andrew, Abhishek Kumar Mishra (Inria, Lyon), Arife Vural-Butcher (Freelancer)
+
+- Canned DNS
+
+  Team: Annika Hannig, Mats Dufberg (Internetstiftelsen (Swedish Internet Foundation, .se registry), Daniel Clappier (University of Applied Sciences Karlsruhe (HKA) & ANEXIA Deutschland GmbH)
+
+- [DohoT or Donion](https://github.com/DNS-Hackathon/DoHot-or-Donion)
+
+  Team: Tor Arvill (Netnod), Jonathan Magnusson (Karlstad University), Tom (IWW), Alfred Arouna (SimulaMet)
+
+- [resviz](https://github.com/DNS-Hackathon/resviz) 
+
+  Team: Leo Olofsson (GetSwish AB), Roger Murray (Swedish Internet Foundation), Jerry Lundström (DNS-OARC), Jonas Andersson (Internetstiftelsen Hacker)
 
 ## Awards
 
