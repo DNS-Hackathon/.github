@@ -65,11 +65,13 @@ The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan
 
   Team: Tor Arvill (Netnod), Jonathan Magnusson (Karlstad University), Tom (IWW), Alfred Arouna (SimulaMet)
 
-- [resviz](https://github.com/DNS-Hackathon/resviz) 
+- [resviz](https://github.com/DNS-Hackathon/resviz)
 
   Results presentation
 
   Team: Leo Olofsson (GetSwish AB), Roger Murray (Swedish Internet Foundation), Jerry Lundström (DNS-OARC), Jonas Andersson (Internetstiftelsen Hacker)
+
+  [resviz-nomnoml](https://github.com/DNS-Hackathon/resviz-nomnoml), demo: `https://dev.dns-oarc.net/resviz/?www.cmdns.dev.dns-oarc.net`
 
 ## Awards
 
