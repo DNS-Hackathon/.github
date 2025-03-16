@@ -41,7 +41,7 @@ The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan
 
 - [Babies](https://github.com/DNS-Hackathon/Stork-DNS-Zone-Viewer)
 
-  Results presentation
+  [Results presentation](https://github.com/DNS-Hackathon/Stork-DNS-Zone-Viewer/blob/main/babies-project-summary.pdf)
 
   Team: Aleksi Suhonen (TREX Regional Exchanges Oy), Anand Buddhdev (RIPE NCC), Marcin (Internet Systems Consortium), Piotrek Zadroga (ISC)
 
