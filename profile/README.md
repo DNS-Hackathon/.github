@@ -55,7 +55,7 @@ The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan
 
 - [Canned DNS](https://gitlab.com/canneddns/canneddns)
 
-  Results presentation
+  [Results presentation](https://gitlab.com/canneddns/canneddns/-/blob/main/doc/CannedDNS%20DNS%20Hackathon%202025.pdf)
 
   Team: Annika Hannig, Mats Dufberg (Internetstiftelsen (Swedish Internet Foundation, .se registry), Daniel Clappier (University of Applied Sciences Karlsruhe (HKA) & ANEXIA Deutschland GmbH)
 
