@@ -29,13 +29,13 @@ The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan
 
 - [Poisonlicious](https://github.com/DNS-Hackathon/Poisonlicious)
 
-  Results presentation
+  [Results presentation](https://dns-hackathon.github.io/Poisonlicious/cache-poisonlicious-presentation.html)
 
   Team: Stéphane Bortzmeyer (Afnic), Willem Toorop (NLnet Labs), Moin Rahman (Cybermancer Infosec B.V.), Babak Farrokhi (Quad9)
 
 - [LHB](https://github.com/DNS-Hackathon/LHB)
 
-  Results presentation
+  [Results presentation](https://github.com/DNS-Hackathon/LHB/blob/main/Slides.pdf)
 
   Team: Teddy Hogeborn (Nordisk Media Utveckling AB), Björn Påhlsson (Nordisk Media Utveckling AB), Asbjørn Sloth Tønnesen (Fiberby ApS), Ali Mohammad Pur (PCH), Niall O'Reilly (Tolerant Networks Ltd)
 
@@ -61,13 +61,13 @@ The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan
 
 - [DohoT or Donion](https://github.com/DNS-Hackathon/DoHot-or-Donion)
 
-  Results presentation
+  [Results presentation](https://github.com/DNS-Hackathon/DoHot-or-Donion/blob/main/slides/main.pdf)
 
   Team: Tor Arvill (Netnod), Jonathan Magnusson (Karlstad University), Tom (IWW), Alfred Arouna (SimulaMet)
 
 - [resviz](https://github.com/DNS-Hackathon/resviz)
 
-  Results presentation
+  [Results presentation](https://github.com/DNS-Hackathon/resviz/blob/main/Docs/resviz-presentation.pdf)
 
   Team: Leo Olofsson (GetSwish AB), Roger Murray (Swedish Internet Foundation), Jerry Lundström (DNS-OARC), Jonas Andersson (Internetstiftelsen Hacker)
 
