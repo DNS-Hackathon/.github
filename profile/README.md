@@ -73,6 +73,12 @@ The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan
 
   [resviz-nomnoml](https://github.com/DNS-Hackathon/resviz-nomnoml), demo: `https://dev.dns-oarc.net/resviz/?www.cmdns.dev.dns-oarc.net`
 
-## Awards
+## 🏆️ Awards 🏆️
 
-(TBA)
+We have three categories of awards, in no particular order:
+
+- Funniest project name
+
+- Most complete project
+
+- Project with the self appointed most annoying team member
