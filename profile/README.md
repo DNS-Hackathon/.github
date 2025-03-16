@@ -49,7 +49,7 @@ The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan
 
 - idIOT
 
-  Results presentation
+  [Results presentation](https://github.com/DNS-Hackathon/SupportingDocs/blob/main/IdiOT.pdf)
 
   Team: Ulrich Wisser (ICANN), Andrew Losty (UCL), Abhishek Kumar Mishra (Inria, Lyon), Arife Vural-Butcher (Freelancer)
 
