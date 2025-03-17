@@ -77,8 +77,12 @@ The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan
 
 We have three categories of awards, in no particular order:
 
-- Funniest project name
+- Funniest project name: idIOT
 
-- Most complete project
+- Most complete project: Canned DNS
 
-- Project with the self appointed most annoying team member
+- Project with the self appointed most annoying team member: Babies
+
+## Share the event
+
+Coming soon!
