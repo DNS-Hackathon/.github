@@ -6,7 +6,7 @@ In early spring of 2025, 32+ hackers gathered in Stockholm for the DNS Hackathon
 
 It took place over a weekend (15-16 March) in the lovely offices of Netnod which are located in the famous area [Filmstaden](https://en.wikipedia.org/wiki/Filmstaden) Solna, once one of the most modern film studios of its time in Europe.
 
-[Netnod](https://www.netnod.se/), together with [DNS-OARC](https://www.dns-oarc.net/) and [RIPE NCC](https://www.ripe.net/), hosted 7 projects teams and their project results and presentations can be found on this page.
+[Netnod](https://www.netnod.se/), together with [DNS-OARC](https://www.dns-oarc.net/) and [RIPE NCC](https://www.ripe.net/), hosted 7 project teams and their project results and presentations can be found on this page.
 
 A summary of the results was presented at the Netnod Meeting (18-19 March), link coming soon!
 
@@ -88,4 +88,4 @@ Here is a short footnote-able text if you want to mention this hackathon:
 >
 > It took place over a weekend (15-16 March) in the lovely offices of Netnod which are located in the famous area [Filmstaden](https://en.wikipedia.org/wiki/Filmstaden) Solna, once one of the most modern film studios of its time in Europe.
 >
-> [Netnod](https://www.netnod.se/), together with [DNS-OARC](https://www.dns-oarc.net/) and [RIPE NCC](https://www.ripe.net/), hosted 7 projects teams and their project results and presentations can be found on [https://github.com/DNS-Hackathon](https://github.com/DNS-Hackathon).
+> [Netnod](https://www.netnod.se/), together with [DNS-OARC](https://www.dns-oarc.net/) and [RIPE NCC](https://www.ripe.net/), hosted 7 project teams and their project results and presentations can be found on [https://github.com/DNS-Hackathon](https://github.com/DNS-Hackathon).
