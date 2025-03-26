@@ -2,7 +2,13 @@
 
 # DNS Hackathon 2025
 
-Welcome to the DNS Hackathon 2025, hosted by Netnod, RIPE NCC, and DNS-OARC. During March 15–16 (the weekend before [Netnod meeting](https://www.netnod.se/event/netnod-meeting2025/)), a DNS Hackathon will be held with hackers gathered from all corners of the world to work on DNS.
+In early spring of 2025, 32+ hackers gathered in Stockholm for the DNS Hackathon!
+
+It took place over a weekend (15-16 March) in the lovely offices of Netnod which are located in the famous area Filmstaden Solna, once one of the most modern film studios of its time in Europe.
+
+Netnod, together with DNS-OARC and RIPE NCC, hosted 7 projects teams and their project results and presentations can be found on this page.
+
+A summary of the results was presented at the Netnod Meeting (18-19 March), link coming soon!
 
 ## Hosts
 
@@ -76,4 +82,10 @@ We have three categories of awards, in no particular order:
 
 ## Share the event
 
-Coming soon!
+Here is a short footnote-able text if you want to mention this hackathon:
+
+> In early spring of 2025, 32+ hackers gathered in Stockholm for the DNS Hackathon!
+>
+> It took place over a weekend (15-16 March) in the lovely offices of Netnod which are located in the famous area Filmstaden Solna, once one of the most modern film studios of its time in Europe.
+>
+> Netnod, together with DNS-OARC and RIPE NCC, hosted 7 projects teams and their project results and presentations can be found on [https://github.com/DNS-Hackathon](https://github.com/DNS-Hackathon).
