@@ -18,13 +18,6 @@ The organizing committee consists of Johanna Eriksson (Netnod), Denesh Bhabuta (
 
 The programme Committee consists of Arife Vural-Butcher (Freelancer), Lars-Johan Liman (Netnod) and Samaneh Tajalizadehkhoob (ICANN).
 
-## Supporting documents 
-
-* Recording of the introductions webinar: https://ripe.zoom.us/rec/share/xLenDCxBd-BdkjL9pjTm-T4TlROxpMVqc7lCJCde67VhR0J-FIklEvmsRTD5RR2d.vJN3wmxpXbyBoOF6 Passcode: s25YC5y.
-* Slides
-* [intro-to-DNS-hackathon-vesna.pdf](https://github.com/user-attachments/files/19072554/intro-to-DNS-hackathon-vesna.pdf)
-* [hackathon-logistics-johanna.pdf](https://github.com/user-attachments/files/19072553/hackathon-logistics-johanna.pdf)
-
 ## Projects
 
 - [Poisonlicious](https://github.com/DNS-Hackathon/Poisonlicious)
